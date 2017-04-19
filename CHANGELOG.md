@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2017-04-19)
+
+* Tests refactor ([62ecc71](https://github.com/kikobeats/lpwind-api/commit/62ecc71))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2017-04-08)
 
