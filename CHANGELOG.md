@@ -1,3 +1,10 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2017-05-29)
+
+* fix(package): update got to version 7.0.0 ([44f80dd](https://github.com/kikobeats/lpwind-api/commit/44f80dd))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2017-04-19)
 
